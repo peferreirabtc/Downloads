@@ -1,6 +1,6 @@
 # Dowloads  
-Wallet 1.2
-Windows
-Linux
-Mac
+Wallet 1.2:
+Windows;
+Linux;
+Mac;
 
