@@ -1,0 +1,13 @@
+
+Caso já tenha o arquivo niobiowallet.cfg na pasta ~/.niobio, apague-o antes de rodar esta nova versão da GUI para linux.
+Esse release foi testado em Ubuntu 16.04.
+Dependências:
+- libboost1.58-all-dev
+- qt5-default
+Use 
+sudo apt-get install build-essential libboost1.58-all-dev librocksdb-dev
+sudo apt-get install qt5-default
+
+Para rodar:
+
+./niobio
