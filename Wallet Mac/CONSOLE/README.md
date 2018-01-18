@@ -1,20 +1,20 @@
-#Mac OS console daemons
+# Mac OS console daemons
 
-##Dependency
+## Dependency
 - macOS High Sierra 10.13.x (not tested on older versions)
 - libboost1.58
 
-###Using homebrew
+### Using homebrew
 ```
 brew install boost
 ```
 
-##How to run node daemon
+## How to run node daemon
 ```
 ./niobiod
 ```
 
-##How to run simplewallet
+## How to run simplewallet
 Wait for blockchain sync. You should see on node output:
 ```
 2018-Jan-18 11:09:55.621398 INFO    [177.96.42.29:8313 OUT] SYNCHRONIZED OK
@@ -34,7 +34,7 @@ After node is synchronized:
 ./simplewallet
 ```
 
-##How to run miner
+## How to run miner
 ```
 ./miner --address <your-wallet-address>
 ```
