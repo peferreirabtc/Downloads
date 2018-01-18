@@ -1,6 +1,6 @@
 # Mac OS console daemons
 
-## Dependency
+## Dependencies
 - macOS High Sierra 10.13.x (not tested on older versions)
 - libboost1.58
 
