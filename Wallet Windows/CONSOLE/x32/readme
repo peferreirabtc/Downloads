@@ -1,1 +1,14 @@
-
+-Use a wallet gráfica. Só use aqui se não conseguir rodar a outra.		
+-		
+-1) Abra um prompt (terminal, tela preta) 		
+--- menu Iniciar -> cmd		
+-		
+-2) Vá até a pasta onde estão esses arquivos 		
+--- cd c:\niobio		
+-		
+-3) Rode o arquivo niobiod.exe, ele irá baixar toda a blockchain (base de dados) do nióbio. Demora.		
+--- niobiod.exe		
+-		
+-4) Assim que acabar, abra outro prompt e rode o simplewallet.exe para criar ou abrir sua carteira.		
+--- cd c:\niobio		
+--- simplewallet.exe
