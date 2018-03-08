@@ -1,5 +1,5 @@
 # Downloads   
-Wallet 1.2.1
+Wallet 1.2.3
 Windows;
 Linux;
 Mac;
